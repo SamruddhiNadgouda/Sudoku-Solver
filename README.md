@@ -1,3 +1,4 @@
 # Sudoku-Solver
 ## Using Java
-![Screenshot 2024-03-28 104536](https://github.com/SamruddhiNadgouda/Sudoku-Solver/assets/97962486/1bad2be4-e8af-401a-b194-b8deb8cefdf4)
+![Screenshot 2024-03-28 124125](https://github.com/SamruddhiNadgouda/Sudoku-Solver/assets/97962486/2c3165d2-d117-4a4a-aac9-e803cd0dbae8)
+
